@@ -1,8 +1,7 @@
 # Sheriff-of-Nottingham
 Sheriff of Nottingham 
 	PROGRAMARE ORIENTATA PE OBIECTE
-	Sheriff of Nottingham
- NUME: Sorescu Teodora
+
 
 
 Pachetul Comparators:
